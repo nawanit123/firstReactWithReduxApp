@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/firstReactWithReduxProject/static/css/main.d752a753.chunk.css",
+    "main.js": "/firstReactWithReduxProject/static/js/main.099ffa7f.chunk.js",
+    "main.js.map": "/firstReactWithReduxProject/static/js/main.099ffa7f.chunk.js.map",
+    "runtime-main.js": "/firstReactWithReduxProject/static/js/runtime-main.88cef339.js",
+    "runtime-main.js.map": "/firstReactWithReduxProject/static/js/runtime-main.88cef339.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/firstReactWithReduxProject/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.9aabc4cd.chunk.js": "/firstReactWithReduxProject/static/js/2.9aabc4cd.chunk.js",
+    "static/js/2.9aabc4cd.chunk.js.map": "/firstReactWithReduxProject/static/js/2.9aabc4cd.chunk.js.map",
+    "index.html": "/firstReactWithReduxProject/index.html",
+    "precache-manifest.2c3fdfdbae45be84d1dad3cebc08b8af.js": "/firstReactWithReduxProject/precache-manifest.2c3fdfdbae45be84d1dad3cebc08b8af.js",
+    "service-worker.js": "/firstReactWithReduxProject/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/firstReactWithReduxProject/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.d752a753.chunk.css.map": "/firstReactWithReduxProject/static/css/main.d752a753.chunk.css.map",
+    "static/js/2.9aabc4cd.chunk.js.LICENSE.txt": "/firstReactWithReduxProject/static/js/2.9aabc4cd.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/firstReactWithReduxProject/static/media/sega-webfont.3939dd2a.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88cef339.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.9aabc4cd.chunk.js",
+    "static/css/main.d752a753.chunk.css",
+    "static/js/main.099ffa7f.chunk.js"
+  ]
+}
